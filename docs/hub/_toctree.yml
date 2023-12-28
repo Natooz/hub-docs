@@ -73,6 +73,8 @@
         title: Flair
       - local: keras
         title: Keras
+      - local: miditok
+        title: MidiTok
       - local: ml-agents
         title: ML-Agents
       - local: open_clip
